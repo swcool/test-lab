@@ -1,6 +1,6 @@
 ## This is test only
 
-<table border="1">
+<table>
      <tr>
          <th>Head1</th><th>Head2</th>
      </tr>
