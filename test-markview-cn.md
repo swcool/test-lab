@@ -2,7 +2,7 @@ __Below Sample is in Chinese (以下为中文例子)__
 ## 例子说明: 即写即现
 左边写什么右边就显示什么
 
-标示简写易==读器==. test<sup>3</sup>
+标示简写易<mark>读器</mark>. test<sup>3</sup>
 
 ### 神奇的“标示简写易读器” MarkView
 #### 标记编辑器
