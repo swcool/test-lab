@@ -1,3 +1,13 @@
+---
+title: sng
+description: 
+published: 1
+date: 2021-01-06T04:08:17.752Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-06T04:04:55.339Z
+---
+
 |GR>P>nWrg#B:1/20@3updP100L10_4x40%@R|330_220R_1x30%@T_3/4:30@F_1/2:30P_1/4J@P|Range#SlowAct|Strategic/ToughFold|
 |----|---|--|--|
 |==a**REM** bTBA cCSP dSMB eGFfGV gBSM hSNG==<br/>01. **J15bb-20@P** prepare 30@F 40@T 50@R<br/>02. **C**4x **T**3x **oop**4x **ep**10 **hj**15 **cosb**25 ==1+Lct40==<br/>---. ==mrct20 3xt10== **btbb**40 ==mrct40 3xt20== **cJ: t1/2**<br/>03. **80+5 50+t40 L-5r10j15 h+5c10b20 63m520**|11. **51r3 50-123**r2.5 **30**-r2.2==t20rstNf/d@F==**15**-r2==t10nL==<br/>12. **Early**: DSp,profitH,nRiskBig -L/mr PAs bw sc1<br/>13. **HBL ==nrb15bb== 77+AJ+Js+ATs** 3/P **66-** LP f/o-p<br/>---. L@r>f LP3/p ==t10+JTs== BL3b/rstJ ==t5+66+AJ+ATs== ---. Jrb25t5 r20t10 ==r15t15== r10t20 r5t30 ==智信仁勇严==|**T** JJ AKAQs ==20==Q<br/>5 TTAQAJs KQs<br/>==t10== 99 AJ A9s<br/>**t15 88 AT A8s**<br/>==t20== 77 A9 A5s|iPerTLRG j==T5+:r4@P==<br/>15-持重待机先胜后战<br/>Q+Js+ KTs (12 11)<br/>**J+Ts+ KTK9s** (10 9)<br/>T+ 9s+ 98s (8) ==(p30-)==|
